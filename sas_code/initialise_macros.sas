@@ -84,14 +84,25 @@
   			select count(*) into :obscount
      			from &in_ds.
 		quit;
+
+  		%log_message(The dataset &in_ds. contains &obscount. rows.)
+  
 	%end;
 
+ 	%else %do;
+
+  		%log_message(The dataset &in_ds. does not exist.)
+
+    	%end;
 
 %mend countobs;
 
 
 
-
+/* Create_Format					*/
+/*							*/
+/* Creates a format based upon values of a variable	*/
+/* in a dataset						*/
 
 %macro create_format(in_ds = , in_var = , format_name = , decimal_places = 0, library = work);
 
@@ -177,7 +188,9 @@
 %mend;
 
 
-
+/* Drop_Table						*/
+/*							*/
+/* Deletes a list of datasets				*/
 
 %macro drop_table(ds_list = , msg = n);
 
@@ -204,6 +217,12 @@
 %mend drop_table;
 
 
+
+
+/* Start_Timer & End_Timer				*/
+/*							*/
+/* Counts the time between start and end		*/
+
 %macro start_timer;
 
 	%global s_time;
@@ -213,9 +232,6 @@
 	run;
 
 %mend;
-
-
-
 
 %macro end_timer;
 
@@ -242,6 +258,9 @@
 
 
 
+/* Quarter_Dates					*/
+/*							*/
+/* Defines macro variables for dates			*/
 
 %macro quarter_dates(override_date = , /* Format is ddmmmyyyy */
                    
@@ -370,7 +389,9 @@
 
 
 
-
+/* Reorder_Vars						*/
+/*							*/
+/* Reorder specified variables in a dataset		*/
 
 %macro reorder_vars(in_dataset = , out_dataset = , in_vars = );
 
@@ -390,8 +411,11 @@
 
 
 
+/* Replace_Missing					*/
+/*							*/
+/* Replace missing values in a dataset			*/
 
-%macro replace_missing(in_vars, num_miss_val, char_miss_val);
+%macro replace_missing(in_vars, num_miss_val=0, char_miss_val=%str(" ") );
 
 	%let rmi = 0;
 
@@ -416,6 +440,9 @@
 
 
 
+/* Reset_Titles						*/
+/*							*/
+/* Reset all titles					*/
 
 %macro reset_titles;
 	
@@ -426,7 +453,9 @@
 %mend;
 
 
-
+/* Send_Email						*/
+/*							*/
+/* Sends an email using the input parameters		*/
 
 %macro send_email(to = , cc = , from = , subject = , attach = , message = );
 
@@ -457,6 +486,11 @@
 %mend;
 
 
+
+/* Show_Macro_Names					*/
+/*							*/
+/* Show all current user-defined macros			*/
+
 %macro show_macro_names;
 
 title 'Current user-defined macros';
@@ -476,6 +510,9 @@ title;
 
 
 
+/* Show_Macro_Variables					*/
+/*							*/
+/* Show all current user-defined macro variables	*/
 
 %macro show_macro_vars;
 
@@ -507,6 +544,11 @@ title;
 %mend;
 
 
+
+
+/* Split_Dups						*/
+/*							*/
+/* Removes duplicate observations in a dataset		*/
 
 %macro split_dups(in_ds, out_ds, by_var) ;
 
@@ -565,7 +607,10 @@ title;
 
 
 
-
+/* Split_Variable_String				*/
+/*							*/
+/* Creates macro variables for each value in a 		*/
+/* delimited string					*/
 
 %macro split_variable_string(str = , var_name = , del = %str( ), log_message = n);
 
