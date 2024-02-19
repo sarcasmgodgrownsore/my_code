@@ -1,3 +1,6 @@
+/* Log_Message						*/
+/*							*/
+/* Writes a banner message to the log window		*/
 
 %macro log_message(message);
 
@@ -65,49 +68,24 @@
 
 
 
+/* Countobs						*/
+/*							*/
+/* Creates a macro variable &obscount with the number	*/
+/* of observations in the specified dataset		*/
 
-%macro countobs(file_nm, scoring_db, db_owner);
+%macro countobs(in_ds);
 
 	%global obscount;
 
-	%let obscount = 0;
-
-	%if %upcase("&scoring_db") = "Y" %then
+	%if %sysfunc(exist(&in_ds.)) or 
+	%sysfunc(fileexist(&in_ds.)) %then
 	%do;
-
 		proc sql noprint;
-			connect to odbc as odbc (datasrc=&database.);
-
-			select	* into :obs
-			from connection to odbc
-				(	select	count(*)
-					from	&file_nm.	)
-			;
+  			select count(*) into :obscount
+     			from &in_ds.
 		quit;
-
-		data _null_;
-		   call symput('obscount',trim(left(put(&obs.,10.))));
-		run;
-
-		%log_message(The &file_nm. dataset has &obscount. rows);
-
 	%end;
-	%else
- 	%do;
 
-		%if %sysfunc(exist(&file_nm.)) or 
-		%sysfunc(fileexist(&file_nm.)) %then
-		%do;
-			data _null_;
-			   if 0 then set &file_nm. nobs=count;
-			   call symput('obscount',trim(left(put(count,10.))));
-			   stop; 
-			run;
-
-			%log_message(The &file_nm. dataset has &obscount. rows);
-		%end;
-
-	%end;
 
 %mend countobs;
 
