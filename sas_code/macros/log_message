@@ -1,1 +1,68 @@
+/* Log_Message						*/
+/*							*/
+/* Writes a banner message to the log window		*/
+
+%macro log_message(message);
+
+	%let len = %length(&msg);
+	%let width = 75;
+	%let lines = %eval(&len / &width);
+	%let maxlines = %eval(&lines + 1);
+	%let i = %eval(&width + 1);
+	%let eline = %str(**                                                                                    **);
+	%let fline = %str(****************************************************************************************);
+	%let space = %str( );
+
+	%put &fline;
+	%put &eline;
+
+	%if &len. < &width. %then
+	%do;
+		
+	%end;
+	%else
+	%do;
+		%let check = %substr(&msg, &i, 1);
+
+		%do line_no = 1 %to &maxlines.;
+
+			%if &line_no. < &maxlines. %then
+			%do;
+
+				%do %while("&check" ne "");
+					%let i = %eval(&i - 1);
+					%let check = %substr(&msg, &i , 1);
+				%end;
+
+				%let line&line_no = %substr(&msg, 1, &i - 1);
+
+				%let pad = ;
+				%do zi = 1 %to &width. + 9 - &i.;
+					%let pad =&pad%str( );
+				%end;
+
+				%let writeln = ** &&&line&line_no.&pad.**;
+				%put &writeln;
+
+				%let msg = %substr(&msg, &i);
+				%let check = yes;
+
+				%let i = %eval(&width + 1);
+
+			%end;
+		%end;
+	%end;
+
+	%let pad = ;
+	%do zi = 1 %to &width. + 9 - %length(&msg) - 1;
+		%let pad =&pad%str( );
+	%end;
+
+	%let writeln = ** &msg.&pad.**;
+	%put &writeln;
+	%put &eline;
+	%put &fline;
+
+%mend;
+
  
