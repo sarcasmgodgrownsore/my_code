@@ -15,6 +15,11 @@ snippet rscript
 	
 	${3:# Code}
 
+snippet showcol
+	source("/home/macgregordawson/R/Show colours.R")
+	
+snippet pack
+	source("/home/macgregordawson/R/Install packages.R")
 
 snippet rml
 	rm(list=ls())
@@ -46,3 +51,4 @@ snippet reads
 	saspath <- "${1:saspath}"
 	setwd(saspath)
 	new_data <- haven::read_sas("${2:in_ds}") 
+
