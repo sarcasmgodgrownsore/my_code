@@ -243,7 +243,7 @@ snippet reads
 	new_data <- haven::read_sas("${2:in_ds}")
 
 snippet pack
-	source("home/macgregordawson/Install packages.R")
+	source("Install packages.R")
 
 
 
@@ -254,4 +254,5 @@ snippet pack
 snippet pack
 	source("home/macgregordawson/Install packages.R")
 
-
+snippet showc
+	source("home/macgregordawson/Show R colours.R")
