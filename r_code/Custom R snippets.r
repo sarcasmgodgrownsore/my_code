@@ -242,10 +242,16 @@ snippet reads
 	setwd(saspath)
 	new_data <- haven::read_sas("${2:in_ds}")
 
+snippet pack
+	source("home/macgregordawson/Install packages.R")
+
+
+
+
 
 # Custom code snippets (home only)
 
 snippet pack
-
+	source("home/macgregordawson/Install packages.R")
 
 
