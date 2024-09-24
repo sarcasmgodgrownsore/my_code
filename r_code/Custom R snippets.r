@@ -245,7 +245,8 @@ snippet reads
 snippet pack
 	source("Install packages.R")
 
-
+snippet showc
+	source("Show R colours.R")
 
 
 
