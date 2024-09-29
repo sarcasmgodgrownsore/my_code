@@ -119,6 +119,9 @@ snippet shinymod
 
 
 # Custom code snippets (all environments)
+snippet git
+	"https://raw.githubusercontent.com/sarcasmgodgrownsore/my_code/refs/heads/main/r_code/${1:name}"
+
 
 snippet rscript
 	# TITLE
