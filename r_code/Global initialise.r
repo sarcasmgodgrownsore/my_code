@@ -15,3 +15,4 @@ package_list <- c("tidyverse", # Tidyverse
 
 install_packages(package_list)
 rm(package_list)
+rm(install_packages)
