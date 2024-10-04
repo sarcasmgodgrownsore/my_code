@@ -260,3 +260,7 @@ snippet pack
 
 snippet showc
 	source("home/macgregordawson/Show R colours.R")
+
+snippet init
+	source("https://raw.githubusercontent.com/sarcasmgodgrownsore/my_code/refs/heads/main/r_code/Global%20initialise.r")
+
