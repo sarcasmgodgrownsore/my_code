@@ -1,7 +1,14 @@
 EMAIL RESPONSE GENERATOR WITH STRATEGY
 
-Here is an email I received:
+Here is the email I received:
 [Paste email]
+
+Context:
+- Relationship dynamic: [Superior / Peer / Direct report / Client]
+- My goal: [Align / Set boundary / Delay / Gain information / Reframe / Escalate / De-escalate]
+- Assertiveness level: [Low / Medium / High]
+- Tone: [Formal / Semi-formal / Casual professional]
+- Maximum length: [Short ≤150 words / Medium ≤250 words]
 
 Draft three response options:
 1) Agreeable and collaborative.
@@ -10,8 +17,12 @@ Draft three response options:
 
 For each option:
 - Maintain professionalism.
-- Be concise.
+- Be concise and strategically worded.
 - Avoid unnecessary apologies.
-- Align tone with [formal / semi-formal / casual professional].
+- Do not alter my position or commitments unless instructed.
+- Calibrate tone to the specified relationship dynamic.
+
+After drafting, briefly flag any phrases that may unintentionally escalate or create risk.
 
 Deliver full email drafts ready to send.
+Include a subject line if relevant.
