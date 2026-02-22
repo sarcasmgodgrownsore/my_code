@@ -1,14 +1,37 @@
 DEVIL’S ADVOCATE AND RISK EXPOSURE
 
-I am considering this decision: [decision].
+I am considering this decision: [decision]
 
-Your role: Critic.
+Context:
+- Time horizon:
+- Scale of impact:
+- Stakeholders involved:
+- Reversibility (easy / moderate / hard to undo):
 
-Argue against this decision:
-- Identify hidden risks.
-- Outline worst-case scenarios.
-- Highlight blind spots and false assumptions.
-- Point out operational, financial, strategic, and reputational risks.
-- Explain where this commonly fails in real-world cases.
+Your role: Rigorous critic.
 
-Do not soften the critique. Be rigorous and specific.
+Argue against this decision.
+
+For each major risk:
+- Describe the risk clearly.
+- Estimate likelihood (low / medium / high).
+- Estimate impact severity.
+- Identify underlying assumptions being violated.
+
+Include:
+- Hidden and non-obvious risks.
+- Operational, financial, strategic, reputational risks.
+- Second- and third-order consequences.
+- Psychological biases influencing this decision.
+- Where this commonly fails in real-world cases.
+
+Run a pre-mortem:
+Assume this decision failed catastrophically in 2 years.
+Explain the most likely cause.
+
+Optional:
+- Under what conditions could this succeed?
+- What mitigation strategies reduce highest-impact risks?
+
+Do not soften the critique.
+Be specific and grounded.
