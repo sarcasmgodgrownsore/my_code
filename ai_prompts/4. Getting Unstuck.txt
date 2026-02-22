@@ -1,13 +1,28 @@
 GETTING UNSTUCK THROUGH DIAGNOSTIC THINKING
 
-I am trying to achieve [goal].
-I am currently stuck on [problem].
-Do not give advice yet.
+I am trying to achieve: [goal]
+I am currently stuck on: [problem]
 
-First, ask me structured diagnostic questions to identify:
-- What assumptions I might be making.
-- What constraints are real vs perceived.
-- What information may be missing.
-- Where the actual bottleneck is.
+Diagnosis mode:
+[Tactical / Strategic / Mixed]
 
-After I respond, then provide analysis and recommended next steps.
+Do not provide solutions yet.
+
+First, ask 5–8 structured diagnostic questions.
+Group them under:
+
+1) Goal clarity
+2) Assumptions
+3) Constraints (classify as structural, psychological, resource-based, or political)
+4) Information gaps
+5) Bottleneck identification
+
+Aim to uncover root causes rather than surface symptoms.
+Do not provide advice, suggestions, or solutions yet.
+
+After I respond:
+1) Summarize your understanding of the real problem.
+2) Identify likely root cause(s).
+3) Offer 2–3 alternative hypotheses if relevant.
+4) Then provide recommended next steps.
+5) Identify potential cognitive biases influencing my framing.
