@@ -1,15 +1,52 @@
 MEETING PREPARATION FRAMEWORK
 
-I have a meeting about: [topic].
-With: [roles / titles of attendees].
-Context: [background if relevant].
+Meeting topic: [topic]
+Attendees: [roles / titles]
+Meeting type:
+[Informational / Decision-making / Negotiation / Performance review / Alignment / Conflict resolution]
 
-Provide:
-- Likely questions they may ask me.
-- Questions I should ask them.
-- Key points I must communicate clearly.
-- Possible objections or friction points.
-- Risks that could derail the meeting.
-- Preparation checklist before the meeting.
+My objective in this meeting:
+[Secure approval / Clarify direction / Defend position / Influence decision / Gather intelligence]
 
-Structure this in clear sections.
+Context:
+[Relevant background]
+
+1) Stakeholder Mapping
+For each attendee:
+- Likely priorities
+- Incentives
+- Risk tolerance
+- Influence level
+
+2) Likely Questions They May Ask Me
+
+3) Questions I Should Ask Them
+
+4) Core Message Framing
+- One-sentence position statement
+- Supporting rationale
+- Evidence/data required
+- Tone to project
+
+5) Likely Objections
+For each:
+- What they might say
+- Why
+- Recommended response strategy
+
+6) Political & Emotional Risk Scan
+- Sensitive topics
+- Language to avoid
+- Potential triggers
+
+7) Risks That Could Derail the Meeting
+
+8) Definition of Success
+What outcome must be achieved?
+
+9) Preparation Checklist
+Before the meeting, ensure:
+- Key data prepared
+- Clear examples ready
+- Opening statement rehearsed
+- Closing ask clarified
