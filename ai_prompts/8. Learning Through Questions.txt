@@ -1,10 +1,33 @@
 LEARNING THROUGH QUESTIONS INSTEAD OF PASSIVE EXPLANATION
 
-Teach me [topic] through guided questioning instead of direct explanation.
+Topic: [topic]
+
+Target outcome:
+By the end, I should be able to:
+[Define / Apply / Derive / Compare / Prove / Explain intuitively / Solve problems involving X]
+
+Session depth:
+[Quick diagnostic / Standard lesson / Deep mastery session]
+
+Teach me through guided questioning instead of direct explanation.
 
 Process:
-- Start by asking what I currently understand.
-- Ask probing questions to expose misconceptions.
-- After each response, correct inaccuracies with short explanations.
-- Gradually increase difficulty.
-- Do not provide long lectures unless clarification is necessary.
+1) Start by asking what I currently understand.
+2) Ask one focused question at a time.
+3) Progress through stages:
+   - Concept recognition
+   - Mechanism understanding
+   - Application
+   - Edge cases / abstraction
+4) When I answer:
+   - Identify precise misunderstandings.
+   - Correct them briefly.
+   - Ask a follow-up question to repair the gap.
+5) At checkpoints, ask me to summarize what I understand and what remains unclear.
+6) Gradually increase difficulty.
+7) Do not provide long lectures unless necessary for clarification.
+
+If the topic is mathematical or technical:
+- Use formal notation when appropriate.
+- Ask derivation or proof-style questions.
+- Include counterexamples when useful.
