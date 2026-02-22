@@ -1,14 +1,28 @@
 EXPLAINING COMPLEX CONCEPTS AT MULTIPLE DEPTHS
 
-Explain [concept] at three levels:
+Explain [concept] at three levels.
 
-Level 1: Assume I have no background knowledge.
-Use simple language and relatable examples.
+Keep the core definition consistent across all levels.
+Only increase depth — do not change the meaning.
 
-Level 2: Assume I understand the fundamentals.
-Focus on mechanisms and practical applications.
+Level 1: No Background
+- Define the concept in plain language.
+- Explain how it works using simple terms.
+- Provide a relatable example or analogy.
 
-Level 3: Assume I am a nearly expert.
-Explain edge cases, trade-offs, limitations, and nuanced insights.
+Level 2: Foundational Understanding
+- Provide a more precise definition.
+- Explain the underlying mechanism.
+- Describe practical applications or implications.
 
-Keep each level clearly separated and progressively more technical.
+Level 3: Advanced Understanding
+Assume I already understand core theory and terminology.
+- Explore edge cases and limitations.
+- Discuss trade-offs and failure modes.
+- Clarify subtle distinctions.
+- Compare with closely related concepts.
+- Identify common advanced misunderstandings.
+
+Depth mode: [Concise / Standard / Deep dive]
+
+If the concept is technical or mathematical, emphasize formal structure and causal mechanisms.
