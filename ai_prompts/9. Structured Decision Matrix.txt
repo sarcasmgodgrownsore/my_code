@@ -1,14 +1,47 @@
 STRUCTURED DECISION-MAKING MATRIX
 
-Here are my options:
+Options:
 [List options]
 
-For each option, provide:
-- Best case outcome.
-- Worst case outcome.
-- Most likely outcome.
-- Required effort and resources.
-- Key risks.
-- Type of personality or risk tolerance best suited for this option.
+Decision criteria (ranked by importance):
+1)
+2)
+3)
 
-Conclude with a neutral comparison summary.
+For each option, evaluate:
+
+1) Outcomes
+- Short-term (0–6 months)
+- Medium-term (1–3 years)
+- Long-term (5+ years)
+
+2) Scenario Analysis
+- Best case
+- Worst case
+- Most likely case
+
+3) Required Effort and Resources
+
+4) Key Risks
+
+5) Opportunity Cost
+What must be sacrificed?
+
+6) Reversibility
+- Ease of undoing
+- Switching costs
+
+7) Emotional and Identity Impact
+- Energy cost vs gain
+- Alignment with long-term self
+
+8) Assumption Sensitivity
+What assumptions must hold true?
+What happens if they fail?
+
+Optional:
+- Score each option 1–10 against major criteria.
+
+Conclude with:
+- Neutral comparison summary
+- Which option is most robust under uncertainty
