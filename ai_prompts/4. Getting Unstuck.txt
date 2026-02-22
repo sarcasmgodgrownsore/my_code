@@ -1,0 +1,13 @@
+GETTING UNSTUCK THROUGH DIAGNOSTIC THINKING
+
+I am trying to achieve [goal].
+I am currently stuck on [problem].
+Do not give advice yet.
+
+First, ask me structured diagnostic questions to identify:
+- What assumptions I might be making.
+- What constraints are real vs perceived.
+- What information may be missing.
+- Where the actual bottleneck is.
+
+After I respond, then provide analysis and recommended next steps.

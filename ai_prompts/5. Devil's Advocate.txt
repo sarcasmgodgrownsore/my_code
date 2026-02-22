@@ -1,0 +1,14 @@
+DEVIL’S ADVOCATE AND RISK EXPOSURE
+
+I am considering this decision: [decision].
+
+Your role: Critic.
+
+Argue against this decision:
+- Identify hidden risks.
+- Outline worst-case scenarios.
+- Highlight blind spots and false assumptions.
+- Point out operational, financial, strategic, and reputational risks.
+- Explain where this commonly fails in real-world cases.
+
+Do not soften the critique. Be rigorous and specific.

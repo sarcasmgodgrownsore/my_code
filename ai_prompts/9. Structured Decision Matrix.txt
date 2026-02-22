@@ -1,0 +1,14 @@
+STRUCTURED DECISION-MAKING MATRIX
+
+Here are my options:
+[List options]
+
+For each option, provide:
+- Best case outcome.
+- Worst case outcome.
+- Most likely outcome.
+- Required effort and resources.
+- Key risks.
+- Type of personality or risk tolerance best suited for this option.
+
+Conclude with a neutral comparison summary.

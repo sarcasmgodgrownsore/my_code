@@ -1,0 +1,16 @@
+CONTENT IDEA GENERATOR WITH DEPTH CONTROL
+
+I create content about: [topic].
+My audience is: [audience description].
+My goal is: [growth / authority / conversions / engagement].
+
+Generate 10 content ideas:
+- First 5: Practical and immediately useful.
+- Last 5: Unexpected angles, contrarian takes, or under-discussed perspectives.
+
+For each idea include:
+- Working headline.
+- Core thesis.
+- One key insight that makes it distinctive.
+
+Avoid generic topics.

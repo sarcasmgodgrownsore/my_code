@@ -1,0 +1,17 @@
+EMAIL RESPONSE GENERATOR WITH STRATEGY
+
+Here is an email I received:
+[Paste email]
+
+Draft three response options:
+1) Agreeable and collaborative.
+2) Polite pushback with reasoning.
+3) Clarifying response requesting more information.
+
+For each option:
+- Maintain professionalism.
+- Be concise.
+- Avoid unnecessary apologies.
+- Align tone with [formal / semi-formal / casual professional].
+
+Deliver full email drafts ready to send.

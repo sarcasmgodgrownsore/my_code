@@ -1,0 +1,14 @@
+EXPLAINING COMPLEX CONCEPTS AT MULTIPLE DEPTHS
+
+Explain [concept] at three levels:
+
+Level 1: Assume I have no background knowledge.
+Use simple language and relatable examples.
+
+Level 2: Assume I understand the fundamentals.
+Focus on mechanisms and practical applications.
+
+Level 3: Assume I am a nearly expert.
+Explain edge cases, trade-offs, limitations, and nuanced insights.
+
+Keep each level clearly separated and progressively more technical.

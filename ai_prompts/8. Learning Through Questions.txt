@@ -1,0 +1,10 @@
+LEARNING THROUGH QUESTIONS INSTEAD OF PASSIVE EXPLANATION
+
+Teach me [topic] through guided questioning instead of direct explanation.
+
+Process:
+- Start by asking what I currently understand.
+- Ask probing questions to expose misconceptions.
+- After each response, correct inaccuracies with short explanations.
+- Gradually increase difficulty.
+- Do not provide long lectures unless clarification is necessary.

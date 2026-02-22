@@ -1,0 +1,12 @@
+STRUCTURED SUMMARIZATION THAT YOU ACTUALLY REMEMBER
+
+Summarize the following content:
+[Paste content]
+
+Output format:
+- One-sentence TLDR capturing the core idea.
+- Three bullet points explaining the most important supporting details.
+- One practical takeaway I should remember tomorrow.
+
+Avoid generic statements.
+Focus only on high-value information.

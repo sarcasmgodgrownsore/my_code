@@ -1,0 +1,15 @@
+MEETING PREPARATION FRAMEWORK
+
+I have a meeting about: [topic].
+With: [roles / titles of attendees].
+Context: [background if relevant].
+
+Provide:
+- Likely questions they may ask me.
+- Questions I should ask them.
+- Key points I must communicate clearly.
+- Possible objections or friction points.
+- Risks that could derail the meeting.
+- Preparation checklist before the meeting.
+
+Structure this in clear sections.
