@@ -4,9 +4,23 @@ Summarize the following content:
 [Paste content]
 
 Output format:
-- One-sentence TLDR capturing the core idea.
-- Three bullet points explaining the most important supporting details.
-- One practical takeaway I should remember tomorrow.
 
-Avoid generic statements.
-Focus only on high-value information.
+1) TLDR (1 sentence):
+- Capture the central claim or argument.
+- Include the main implication.
+
+2) Three Supporting Points:
+- Select only the three details that most directly support the central claim.
+- Exclude background, repetition, and minor examples.
+
+3) One Practical Takeaway:
+- Must be actionable or decision-relevant.
+- Express as a clear behavioral or mental shift.
+
+Constraints:
+- Avoid generic language.
+- Focus only on high-leverage insights.
+- Preserve causal relationships if present.
+
+Optional:
+- Include one analogy OR one self-test question to reinforce memory.
