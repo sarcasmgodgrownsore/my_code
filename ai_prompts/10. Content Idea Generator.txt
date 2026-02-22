@@ -1,16 +1,32 @@
 CONTENT IDEA GENERATOR WITH DEPTH CONTROL
 
-I create content about: [topic].
-My audience is: [audience description].
-My goal is: [growth / authority / conversions / engagement].
+I create content about: [topic]
+Audience:
+- Description:
+- Sophistication level: [Beginner / Informed / Advanced / Expert]
+
+Primary platform:
+[LinkedIn / Newsletter / Blog / YouTube / Short-form]
+
+My goal:
+[Growth / Authority / Conversions / Engagement]
+
+Depth level:
+[Surface overview / Analytical / Deep technical breakdown]
 
 Generate 10 content ideas:
 - First 5: Practical and immediately useful.
-- Last 5: Unexpected angles, contrarian takes, or under-discussed perspectives.
+- Last 5: Unexpected, contrarian, or under-discussed angles.
+- At least 3 ideas must challenge a widely accepted assumption.
 
 For each idea include:
-- Working headline.
-- Core thesis.
-- One key insight that makes it distinctive.
+- Working headline
+- Core thesis
+- Key mechanism or supporting insight
+- Why this supports my stated goal
+- Indicate if it could become a multi-part series
 
-Avoid generic topics.
+Constraints:
+- Avoid generic industry clichés.
+- Ensure ideas are clearly distinct from one another.
+- Introduce non-obvious framing.
