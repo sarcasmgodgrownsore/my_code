@@ -6,10 +6,26 @@ Rewrite the following content:
 Objectives:
 - Make it [more conversational / more concise / more detailed / simpler / more authoritative / more persuasive].
 - Preserve the original meaning and key message.
+- Do not introduce new claims, assumptions, or interpretations.
 - Improve clarity and logical flow.
 - Remove redundancy and filler.
 - Strengthen weak phrasing.
-- Adjust tone to suit [audience].
-- Maintain the original structure unless improvement is necessary.
+- Adjust tone to suit [audience: include knowledge level and relationship].
+- Maintain consistent voice throughout.
 
-Deliver the final version only. Do not explain your changes.
+Priority order:
+1) Preserve meaning.
+2) Improve clarity and logic.
+3) Apply requested tone/style.
+4) Optimize concision.
+
+Structure mode:
+[Preserve exactly / Preserve headings only / Restructure for clarity]
+
+Target length:
+[Shorter by X% / Similar length / Up to X% longer]
+
+Explanation mode:
+[Final only / Brief summary of major changes]
+
+Deliver according to the selected modes.
