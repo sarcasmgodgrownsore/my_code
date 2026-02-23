@@ -1,0 +1,51 @@
+COGNITIVE BIAS AUDIT ARCHITECTURE
+
+Situation:
+[Describe decision, belief, or emotional reaction]
+
+Step 1: Emotional Mapping
+- Dominant emotions
+- Intensity (low / medium / high)
+- How emotion may be shaping interpretation
+
+Step 2: Identity Mapping
+- What identity aspect feels threatened or reinforced?
+- What belief about myself is being protected?
+
+Step 3: Bias Classification
+Identify potential distortions in these categories:
+- Probability distortions
+- Confirmation bias
+- Incentive distortions
+- Social/status distortions
+- Identity-protective cognition
+- Sunk cost or escalation patterns
+
+For each identified bias:
+- How it may be distorting perception
+- Whether it is irrational distortion or adaptive heuristic
+- Severity (low / medium / high)
+- Potential impact on decision quality
+
+Step 4: Probability Calibration
+Where might I be:
+- Overestimating risk?
+- Underestimating risk?
+- Treating low-probability events as inevitable?
+
+Step 5: Social Influence Scan
+- How expectations or reputation concerns may distort judgment
+
+Step 6: Counterweights
+For high-impact biases:
+- Behavioral correction
+- Information to seek
+- Questions to ask
+- Structural safeguards
+
+Step 7: Overcorrection Warning
+Where might correcting too aggressively create new distortion?
+
+Deliver:
+- Summary of highest-leverage distortion
+- Most important corrective action

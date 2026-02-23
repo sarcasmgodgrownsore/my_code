@@ -1,0 +1,58 @@
+STRATEGIC ARGUMENT CONSTRUCTION ARCHITECTURE
+
+Position:
+[Claim]
+
+Desired outcome:
+[Inform / Influence / Secure approval / Shift perception / Defend position / Escalate]
+
+Audience:
+- Role:
+- Priorities:
+- Incentives:
+- Fears:
+- Decision authority:
+
+Desired tone:
+[Analytical / Assertive / Calm / Diplomatic / Urgent]
+
+Desired audience emotional response:
+[Confidence / Concern / Alignment / Urgency / Reassurance]
+
+Burden of proof:
+What must be demonstrated for this to be convincing?
+
+Build the argument using:
+
+1) Core Thesis (1 sentence)
+
+2) Structured Reasoning
+For each pillar:
+- Claim
+- Reason
+- Evidence
+- Implication
+
+3) Strongest Counterargument
+- Present it fairly
+- Neutralize it
+
+4) Assumption Check
+- Identify weak assumptions
+- Tighten claim if necessary
+
+5) Framing Strategy
+Select framing aligned with audience priorities:
+- Efficiency
+- Risk reduction
+- Fairness
+- Identity alignment
+- Long-term gain
+- Avoided loss
+
+6) Overreach Detection
+Where might this argument overstate?
+
+Deliver:
+- Executive summary (≤100 words)
+- Structured full argument

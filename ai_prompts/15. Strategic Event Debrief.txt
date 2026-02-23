@@ -1,0 +1,65 @@
+STRATEGIC POST-EVENT DEBRIEF ARCHITECTURE
+
+Event:
+[Meeting / Decision / Project]
+
+Step 1: Objective Summary
+- What happened?
+- Outcome (good / neutral / poor)
+
+Step 2: Outcome vs Process
+- Outcome quality
+- Decision/process quality
+- Was this good execution or good luck?
+
+Step 3: Expectation vs Reality
+- What did I expect?
+- What actually happened?
+- Where did divergence occur?
+
+Step 4: Control Analysis
+- Factors within my control
+- External factors
+- Structural constraints
+
+Step 5: Emotional Analysis
+- Dominant emotions during event
+- Emotional regulation quality
+- Emotional residue afterward
+
+Step 6: Bias Detection
+Identify visible distortions:
+- Confirmation bias
+- Overconfidence
+- Defensive reasoning
+- Catastrophizing
+- Sunk cost
+
+Step 7: Signal vs Noise
+- What was true signal?
+- What was variance or randomness?
+
+Step 8: Performance Scoring (1–10)
+- Preparation
+- Clarity
+- Adaptability
+- Emotional control
+- Strategic positioning
+
+Step 9: Lessons
+- What worked
+- What failed
+- Root causes
+
+Step 10: Forward Integration
+- One behavior to repeat
+- One behavior to stop
+- One structural safeguard
+- One skill to improve
+
+Step 11: Identity Reflection
+How did this event reinforce or challenge the person I am becoming?
+
+Deliver:
+- 3 key lessons
+- 1 high-leverage change for next time

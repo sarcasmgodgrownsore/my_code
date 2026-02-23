@@ -1,0 +1,65 @@
+STRATEGIC EXECUTION ARCHITECTURE
+
+Goal:
+[Clear objective]
+
+Desired outcome:
+- Observable result:
+- Measurable criteria:
+- Target timeframe:
+
+Constraints:
+[List all constraints]
+
+Classify constraints:
+- Hard (non-negotiable)
+- Soft (flexible)
+- Self-imposed vs external
+- Identify the most binding constraint
+
+Break the goal into:
+
+1) Milestones (in logical sequence)
+
+For each milestone:
+- Deliverable
+- Time allocation estimate
+- Energy intensity (low / medium / high)
+- Required skills or capability gaps
+- Primary failure mode
+- Secondary failure mode
+- Recovery strategy
+
+2) Critical path dependencies
+
+3) Smallest Viable Progress
+What is the minimum meaningful version achievable in 30 days?
+
+4) Resource Allocation
+- Time per week available
+- Budget (if relevant)
+- Support required
+
+5) Metrics
+- Leading indicators
+- Lagging indicators
+
+6) Feedback Cadence
+- Weekly review questions
+- Monthly checkpoint
+- Pivot triggers
+
+7) Decision Gates
+Where must continuation, scaling, or abandonment be reassessed?
+
+8) Friction & Momentum Analysis
+- Where will motivation drop?
+- Where will friction increase?
+- How can activation energy be reduced?
+
+9) First 7-Day Action Plan
+Concrete, low-ambiguity actions only.
+
+Be realistic.
+Optimize for sustainability, not heroics.
+Assume imperfect conditions.

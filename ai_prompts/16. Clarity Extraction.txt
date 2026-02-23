@@ -1,0 +1,61 @@
+CLARITY EXTRACTION ARCHITECTURE
+
+Raw thoughts:
+[Stream of consciousness]
+
+Step 1: Separate Content
+Identify and separate:
+- Emotional content
+- Analytical content
+- Factual claims
+- Assumptions
+
+Step 2: Group Cognitive Threads
+Organize thoughts into distinct threads.
+Label each clearly.
+
+Step 3: Extract Questions
+Identify:
+- Explicit questions
+- Implicit questions
+- Hidden fears
+- Unstated desired outcomes
+
+Step 4: Identify Tensions
+- Internal contradictions
+- Value conflicts
+- Goal misalignments
+
+Step 5: Classify Issue Type
+Is this primarily:
+- Binary decision
+- Trade-off optimization
+- Priority overload
+- Identity conflict
+- Information gap
+- Emotional regulation issue
+
+Step 6: Surface Constraints
+Identify constraints that are:
+- Real
+- Assumed
+- Socially imposed
+- Self-imposed
+
+Step 7: Signal vs Noise
+Label which elements are:
+- High signal
+- Low signal
+- Repetitive
+- Emotionally amplified
+
+Step 8: Distill Core Question
+Reduce everything to:
+- One central problem statement
+- One core decision or uncertainty
+
+Deliver:
+- Structured outline
+- Bullet summary
+- One-sentence core question
+- Recommended next tool from the system to apply
