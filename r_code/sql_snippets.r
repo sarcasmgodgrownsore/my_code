@@ -419,47 +419,5 @@ snippet fnt
 
 
 
-snippet tg_claim
-	data_tp1.gold.d_claim_vw AS claim
-
-snippet tg_claim_v
-	dk_claim,
-	`Claim Number`,
-	`Accident Date`,
-	`Claim Creation Date`,
-	`Claim Type`,
-	`Mental Injury Only`
-
-snippet tg_claim_va
-	claim.dk_claim,
-	claim.`Claim Number`,
-	claim.`Accident Date`,
-	claim.`Claim Creation Date`,
-	claim.`Claim Type`,
-	claim.`Mental Injury Only`
-
-snippet tg_claim_c
-	claim AS (
-		SELECT
-			dk_claim,
-			`Claim Number`,
-			`Accident Date`,
-			`Claim Creation Date`,
-			`Claim Type`,
-			`Mental Injury Only`
-		FROM data_tp1.gold.d_claim_vw
-	)
-
-snippet tg_claim_cw
-	WITH claim AS (
-		SELECT
-			dk_claim,
-			`Claim Number`,
-			`Accident Date`,
-			`Claim Creation Date`,
-			`Claim Type`,
-			`Mental Injury Only`
-		FROM data_tp1.gold.d_claim_vw
-	)
 
 
